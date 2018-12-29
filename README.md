@@ -32,7 +32,7 @@ pip install wikipedia
 
 ## Authors
 
-* **Gautham Prakash** - *Initial work* - [gauthamp10](https://github.com/gauthamp10)
+* **Gautham Prakash**- [gauthamp10](https://github.com/gauthamp10)
 
 ## License
 
