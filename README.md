@@ -12,7 +12,7 @@ Install the following three python modules before executing wikipedia_info_scrap
 - wikipedia
 
 ```
-** pip install colorama **
+**pip install colorama**
 
 pip install pandas
 
