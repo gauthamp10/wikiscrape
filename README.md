@@ -1,9 +1,10 @@
 ## Wikipedia Information Scrape 
-## ----------------------------
+
 This is a python tool which can be made effective in fetching raw table information for any specific query from any wikipedia pages.It can also be used to fetch summary of any wiki page.The final output of the script can either be saved as a csv or txt file according to the type of data that wiki page contain.
 
 ### Prerequisites
-- python3
+
+> python3
 
 ### Dependencies
 
@@ -27,6 +28,7 @@ pip install wikipedia
 📝 *Please note pip installable python package will be avialable soon after further testing.*
 
 ### Screenshots
+
 ###### *:point_right: Extracting table information*
 ![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/wiki_scrape.png)
 
