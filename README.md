@@ -30,12 +30,10 @@ pip install wikipedia
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Authors
 
-### Jekyll Themes
+* **Gautham Prakash** - *Initial work* - [gauthamp10](https://github.com/gauthamp10)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gauthamp10/wikipedia_info_scraper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## License
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
