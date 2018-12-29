@@ -23,7 +23,7 @@ pip install wikipedia
 python main.py
 ```
 
-📝 *Please note pip installable python package will be avialable soon after further testing*
+📝 *Please note pip installable python package will be avialable soon after further testing.*
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/wiki_scrape.png)
@@ -37,7 +37,8 @@ python main.py
 
 ## Author
 
-* **Gautham Prakash**- [gauthamp10](https://github.com/gauthamp10)
+* **Gautham Prakash**
+  **My other porjects:**[gauthamp10](https://github.com/gauthamp10)
 
 ## License
 
