@@ -37,8 +37,9 @@ python main.py
 
 ## Author
 
-* **Gautham Prakash**
-  **My other porjects:**[gauthamp10](https://github.com/gauthamp10)
+ **Gautham Prakash**
+ 
+ **My other porjects:**[gauthamp10](https://github.com/gauthamp10)
 
 ## License
 
