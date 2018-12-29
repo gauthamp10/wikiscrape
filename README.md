@@ -10,9 +10,9 @@ Install the following three python modules before executing wikipedia_info_scrap
 - wikipedia
 
 ```
-pip install colorama
-pip install pandas
-pip install wikipedia
+1. pip install colorama
+2. pip install pandas
+3. pip install wikipedia
 ```
 
 # Header 1
