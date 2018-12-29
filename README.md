@@ -1,15 +1,19 @@
-## Welcome to GitHub Pages
+## Wikipedia Information Scrape 
+This is a python tool which can be made effective in fetching raw table information for any specific query from any wikipedia pages.It can also be used to fetch summary of any wiki page.The final output of the script can either be saved as a csv or txt file according to the type of data that wiki page contain.
 
-You can use the [editor on GitHub](https://github.com/gauthamp10/wikipedia_info_scraper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dependencies
 
-### Markdown
+Install the following three python modules before executing wikipedia_info_scraper
+- colorama
+- pandas
+- wikipedia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```
+pip install colorama
+pip install pandas
+pip install wikipedia
+```
 
 # Header 1
 ## Header 2
