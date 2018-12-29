@@ -39,7 +39,7 @@ python main.py
 
  **Gautham Prakash**
  
- **My other porjects:**[gauthamp10](https://github.com/gauthamp10)
+ My other projects:[github.com/gauthamp10](https://gauthamp10.github.io/)
 
 ## License
 
