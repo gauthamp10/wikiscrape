@@ -26,13 +26,13 @@ python main.py
 📝 *Please note pip installable python package will be avialable soon after further testing*
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikipedia_info_scraper/master/screenie/wiki_scrape.png)
+![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/wiki_scrape.png)
 
-![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikipedia_info_scraper/master/screenie/wiki_scrape2.png)
+![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/wiki_scrape2.png)
 
 ###### Output
 
-![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikipedia_info_scraper/master/screenie/out.png)
+![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/out.png)
 
 
 ## Author
