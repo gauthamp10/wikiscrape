@@ -29,10 +29,10 @@ pip install wikipedia
 
 ### Screenshots
 
-###### *:pushpin: Extracting table information*
+###### *📌 Extracting table information*
 ![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/wiki_scrape.png)
 
-###### *:pushpin:Extracting summary of the search term*
+###### *📌 Extracting summary of the search term*
 ![Screenshot](https://raw.githubusercontent.com/gauthamp10/wikiscrape/master/screenie/wiki_scrape2.png)
 
 ###### Output
