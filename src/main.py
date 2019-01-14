@@ -37,7 +37,7 @@ def main():                                                     #main definition
 
 
  def save_file(filename,content):                                 #for writing the ouput file. 
-  with open('%s'%filename,'w') as f:
+  with open('%s'%filename,'wb') as f:
    for row in content:
     f.write(str(row))  
 
